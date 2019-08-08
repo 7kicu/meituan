@@ -1,0 +1,64 @@
+{
+    "title": [
+        {
+            "list": "美食",
+            "path": "./list1",
+            "icon": "\ue600",
+            "background": "background:rgb(253, 157, 33);"
+        },
+        {
+            "list": "猫眼电影",
+            "icon": "\ue661",
+            "path": "./list2",
+            "background": "background:rgb(255, 103, 103);"
+        },
+        {
+            "list": "酒店",
+            "icon": "\ue605",
+            "path": "./list3",
+            "background": "background:rgb(138, 144, 250);"
+        },
+        {
+            "list": "休闲娱乐",
+            "icon": "\ue6c7",
+            "path": "./list4",
+            "background": "background:rgb(254, 208, 48);"
+        },
+        {
+            "list": "美食外卖",
+            "icon": "\ue689",
+            "path": "./list5",
+            "background": "background:rgb(253, 157, 33);"
+        },
+        {
+            "list": "KTV",
+            "path": "./list6",
+            "icon": "\ue63e",
+            "background": "background:rgb(254, 208, 48);"
+        },
+        {
+            "list": "周边游",
+            "icon": "\ue67c",
+            "path": "./list7",
+            "background": "background:rgb(77, 198, 238);"
+        },
+        {
+            "list": "丽人",
+            "icon": "\ue607",
+            "path": "./list8",
+            "background": "background:rgb(255, 128, 194);"
+        },
+        {
+            "list": "小吃快餐",
+            "icon": "\ue60e",
+            "path": "./list9",
+            "background": "background:rgb(253, 157, 33);"
+        },
+        {
+            "list": "足疗/按摩",
+            "icon": "\ue6e7",
+            "path": "./list10",
+            "background": "background:rgb(254, 208, 48);"
+        }
+    ]
+}

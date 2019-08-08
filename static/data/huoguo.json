@@ -1,0 +1,201 @@
+{
+    "data": [
+        {
+            "pic": "https://img.meituan.net/msmerchant/e3cd78b6a011573bd38d583f2216c756806865.jpg@353w_353h_1e_1c",
+            "text": "傻子张大盘鸡(长椿路店)",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "count": "900559人消费",
+            "strong": 29,
+            "address": "川菜",
+            "starText": 5
+        },
+        {
+            "pic": "//p1.meituan.net/mogu/b8bf871cc8437afe170ccc432c2a5612126061.jpg@353w_353h_1e_1c",
+            "text": "孟夫子煎包",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "count": "52154人消费",
+            "strong": 11,
+            "address": "包子",
+            "starText": 3.7
+        },
+        {
+            "pic": "https://img.meituan.net/msmerchant/6456c017d20f89b1dd4b949db1b96c99154384.jpg@353w_353h_1e_1c",
+            "text": "解家老家河南菜（高新万科店）",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "count": "518143人消费",
+            "strong": 71,
+            "address": "豫菜",
+            "starText": 4
+        },
+        {
+            "pic": "https://img.meituan.net/msmerchant/9a5bb70e2093ed707c41bc27cabe0ea1111927.jpg@353w_353h_1e_1c",
+            "text": "鸡装箱炸鸡（高新万科店）",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "count": "4508人消费",
+            "strong": 21,
+            "address": "快餐",
+            "starText": 4
+        },
+        {
+            "pic": "//p1.meituan.net/mogu/94a1f931d94c9141b10d374654aae4b587240.jpg@353w_353h_1e_1c",
+            "text": "时尚鸭虾火锅（郑大店）",
+            "piao": "\ue628",
+            "count": "19963人消费",
+            "strong": 32,
+            "address": "虾蟹火锅",
+            "starText": 4
+        },
+        {
+            "pic": "//p1.meituan.net/mogu/7dde465847cabf990d57596b15a6946c58080.jpg@353w_353h_1e_1c",
+            "text": "五谷渔粉（升龙又一城店）",
+            "piao": "\ue628",
+            "count": "72610人消费",
+            "strong": 11,
+            "address": "支持外卖",
+            "starText": 4.7
+        },
+        {
+            "pic": "https://img.meituan.net/msmerchant/6f9b00ac7c2136d0b0bba8e8fd49b45c38078.png@353w_353h_1e_1c",
+            "text": "彼酷里烤全鱼（高新万科店）",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "xian": "\ue78b",
+            "count": "77977人消费",
+            "strong": 60,
+            "address": "烤鱼",
+            "starText": 4.6
+        },
+        {
+            "pic": "https://img.meituan.net/180.180/msmerchant/d836a13a7dc35d1066f8d400d141999a132714.jpg@353w_353h_1e_1c",
+            "text": "韩纪小郡肝串串香(新芒果店)",
+            "piao": "\ue628",
+            "count": "97815人消费",
+            "strong": 35,
+            "address": "串串香",
+            "starText": 4.8
+        },
+        {
+            "pic": "//p1.meituan.net/deal/cedb5bffd271ad81902e888d47178cbd768293.jpg@353w_353h_1e_1c",
+            "text": "湖南香菜滋补烩面",
+            "piao": "\ue628",
+            "xian": "\ue78b",
+            "count": "36021人消费",
+            "strong": 13,
+            "address": "烩面",
+            "starText": 3.9
+        },
+        {
+            "pic": "//p1.meituan.net/deal/e8e1bf3fe224dad9befbbcc7f902404f251412.jpg@353w_353h_1e_1c",
+            "text": "湘粉居",
+            "piao": "\ue628",
+            "count": "48250人消费",
+            "strong": 40,
+            "address": "湘菜",
+            "starText": 3.9
+        },
+        {
+            "pic": "https://img.meituan.net/180.180/msmerchant/2105b8b2c291bee3d265d26a13ede68d822017.jpg@353w_353h_1e_1c",
+            "text": "白总管藤椒豆花鸡",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "xian": "\ue78b",
+            "count": "146566人消费",
+            "strong": 46,
+            "address": "川菜",
+            "starText": 5
+        },
+        {
+            "pic": "https://img.meituan.net/msmerchant/1b6f61be456f460622ab4bda01651a44100782.jpg@353w_353h_1e_1c",
+            "text": "龍鑫源北京烤鸭",
+            "piao": "\ue628",
+            "xian": "\ue78b",
+            "count": "49280人消费",
+            "strong": 25,
+            "address": "烤鸭",
+            "starText": 4
+        },
+        {
+            "pic": "//p1.meituan.net/mogu/df55847891bce08f8d117b7cec56249144687.jpg@353w_353h_1e_1c",
+            "text": "王婆大虾（升龙又一城店）",
+            "piao": "\ue628",
+            "count": "65848人消费",
+            "strong": 43,
+            "address": "虾蟹火锅",
+            "starText": 4.2
+        },
+        {
+            "pic": "https://img.meituan.net/msmerchant/d471339a7dceeef1614ceb58b9ad20f7185407.jpg@353w_353h_1e_1c",
+            "text": "川遇鸡虾公婆",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "count": "3272人消费",
+            "strong": 30,
+            "address": "干锅，香锅",
+            "starText": 4
+        },
+        {
+            "pic": "//p0.meituan.net/mogu/71dd12d33e091883fd23a2d86bd73faf57674.jpg@353w_353h_1e_1c",
+            "text": "有个丁老头",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "count": "46728人消费",
+            "strong": 9,
+            "address": "小吃快餐",
+            "starText": 4.8
+        },
+        {
+            "pic": "https://img.meituan.net/msmerchant/125f98e44b7eba627952fe67a04fefa9166843.jpg@353w_353h_1e_1c",
+            "text": "好彩猪肚鸡",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "count": "102999人消费",
+            "strong": 89,
+            "address": "猪肚鸡火锅",
+            "starText": 4.2
+        },
+        {
+            "pic": "//p0.meituan.net/mogu/95d896220bfe8a8d0c203940159b8d1091951.jpg@353w_353h_1e_1c",
+            "text": "金婆婆重庆小面",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "xian": "\ue78b",
+            "count": "128804人消费",
+            "strong": 12,
+            "address": "面条",
+            "starText": 4
+        },
+        {
+            "pic": "//p0.meituan.net/mogu/d972b50419910bf2b60be6bf5d2d684776381.jpg@353w_353h_1e_1c",
+            "text": "金颗源烩面",
+            "piao": "\ue628",
+            "count": "1900人消费",
+            "strong": 136,
+            "address": "烩面",
+            "starText": 4.1
+        },
+        {
+            "pic": "//p1.meituan.net/mogu/d2e417075a776fb5e77d34e061d8aa03312507.jpg@353w_353h_1e_1c",
+            "text": "老狼大盘鸡第二季",
+            "piao": "\ue628",
+            "count": "86人消费",
+            "strong": 36,
+            "address": "火锅",
+            "starText": 3.3
+        },
+        {
+            "pic": "https://img.meituan.net/msmerchant/ad9fd2c66a60910200e93b73bc91630034551.jpg@353w_353h_1e_1c",
+            "text": "豪客来牛排",
+            "piao": "\ue628",
+            "taocan": "\ue659",
+            "xian": "\ue78b",
+            "count": "19102人消费",
+            "strong": 61,
+            "address": "牛排",
+            "starText": 4.9
+        }
+    ]
+}

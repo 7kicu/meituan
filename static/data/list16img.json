@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "img": "https://img.meituan.net/dpmobile/c5e37fdb6b1c52477815224d8462625a123444.gif"
+        }
+    ],
+    "data2": [
+        {
+            "img2": "https://img.meituan.net/dpmobile/49a5297072289e1479dff8ab53c0bf4167947.png"
+        },
+        {
+            "img2": "https://img.meituan.net/dpmobile/08cedcead213b12728195d37f3d0815462131.png"
+        }
+    ],
+    "newpeople": [
+        {
+            "gift": "https://img.meituan.net/dpmobile/85fe1985cd144494a6b88cc155b1042976168.png%40160w_188h_1e_1c_1l%7Cwatermark%3D0"
+        },
+        {
+            "gift": "https://img.meituan.net/dpmobile/aeba44135cb33c3604ca7e4559d8096c34889.png%40242w_188h_1e_1c_1l%7Cwatermark%3D0"
+        },
+        {
+            "gift": "https://img.meituan.net/dpmobile/e46e794a64a5b6d8973f581b2c85cd3935940.png%40180w_188h_1e_1c_1l%7Cwatermark%3D0"
+        }
+    ],
+    "hot": [
+        {
+            "title": "嗨玩一夏",
+            "price1": "5折",
+            "price2": "趣体验",
+            "img": "https://img.meituan.net/dpmobile/2f552b30b3bf1941900d7972239b8bdd56356.png%40200w_200h_1e_1c_1l%7Cwatermark%3D0"
+        },
+        {
+            "title": "解锁天赋",
+            "price1": "下单",
+            "price2": "赢好礼",
+            "img": "https://p0.meituan.net/dprainbow/67cf0b6e110c9ee4fd5d364003df3c7553934.png%40200w_200h_1e_1c_1l%7Cwatermark%3D0"
+        },
+        {
+            "title": "暑假放假",
+            "price1": "低价",
+            "price2": "有好课",
+            "img": "https://img.meituan.net/dpmobile/597c547b324f7bd8a1454d8e93bd620057829.png%40200w_200h_1e_1c_1l%7Cwatermark%3D0"
+        }
+    ]
+}

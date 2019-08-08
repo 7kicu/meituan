@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "icon": "\ue642",
+            "title": "西洋乐器"
+        },
+        {
+            "icon": "\ue62a",
+            "title": "英语"
+        },
+        {
+            "icon": "\ue61e",
+            "title": "声乐乐理"
+        },
+        {
+            "icon": "\ue622",
+            "title": "驾校"
+        },
+        {
+            "icon": "\ue620",
+            "title": "民族乐器"
+        },
+        {
+            "icon": "\ue629",
+            "title": "球类培训"
+        },
+        {
+            "icon": "\ue67a",
+            "title": "运动培训"
+        },
+        {
+            "icon": "\ue61f",
+            "title": "美妆从业"
+        },
+        {
+            "icon": "\ue627",
+            "title": "在线教育"
+        },
+        {
+            "icon": "\ue623",
+            "title": "全部"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+[
+    {
+        "title": "纳兰·卡芙烘焙（新芒果春天店）",
+        "star": 4.5,
+        "span1": "团",
+        "span2": "团",
+        "address": "1.5km高新区",
+        "productList": [
+            {
+                "thunmb": "//p0.meituan.net/200.0/deal/a9f38211f2e8b4695fb826947579e3d4280266.jpg@239_0_1441_1441a%7C267h_267w_2e_90Q",
+                "taocan": "祝寿蛋糕二选一1个，约14英寸，圆形",
+                "price": 498,
+                "yprice": 598,
+                "saleNum": 10,
+                "shopprice": "10.99",
+                "shopprice2": "元",
+                "shopprice3": "门市价：14元",
+                "sales": "已售16252"
+            },
+            {
+                "thunmb": "//p0.meituan.net/200.0/deal/f5058e0b0218e06ae0ba09931276173b21532.jpg",
+                "taocan": "慕丝蛋糕六选一1个，约2.2磅，圆形或方形",
+                "price": 498,
+                "yprice": 598,
+                "saleNum": 10,
+                "shopprice": "10.99",
+                "shopprice2": "元",
+                "shopprice3": "门市价：14元",
+                "sales": "已售16252"
+            },
+            {
+                "thunmb": "//p0.meituan.net/200.0/deal/a9f38211f2e8b4695fb826947579e3d4280266.jpg@239_0_1441_1441a%7C267h_267w_2e_90Q",
+                "taocan": "单人spa套餐",
+                "price": 498,
+                "yprice": 598,
+                "saleNum": 10,
+                "shopprice": "10.99",
+                "shopprice2": "元",
+                "shopprice3": "门市价：14元",
+                "sales": "已售16252"
+            }
+        ]
+    },
+    {
+        "title": "芊麦.西饼",
+        "star": 4.5,
+        "span1": "团",
+        "span2": "团",
+        "address": "1.5km高新区",
+        "productList": [
+            {
+                "thunmb": "//p1.meituan.net/200.0/deal/ba2b3dc47f059cb8e06603a91252289163444.jpg@267h_267w_2e_90Q",
+                "taocan": "祝寿蛋糕二选一1个，约14英寸，圆形",
+                "price": 498,
+                "yprice": 598,
+                "saleNum": 10,
+                "shopprice": "10.99",
+                "shopprice2": "元",
+                "shopprice3": "门市价：14元",
+                "sales": "已售16252"
+            }
+        ]
+    },
+    {
+        "title": "森林时光蛋糕（高新区店）",
+        "star": 4.8,
+        "span1": "团",
+        "span2": "团",
+        "address": "1.5km高新区",
+        "productList": [
+            {
+                "thunmb": "//p0.meituan.net/200.0/deal/a9f38211f2e8b4695fb826947579e3d4280266.jpg@239_0_1441_1441a%7C267h_267w_2e_90Q",
+                "taocan": "8英寸鲜奶水果蛋糕，多款任选1个，约8英寸，圆形",
+                "price": 498,
+                "yprice": 598,
+                "saleNum": 10,
+                "shopprice": "10.99",
+                "shopprice2": "元",
+                "shopprice3": "门市价：14元",
+                "sales": "已售16252"
+            },
+            {
+                "thunmb": "//p0.meituan.net/100.0/deal/9aec2d7015652e8955fb344dddcecce3126489.jpg@0_180_1080_1080a%7C267h_267w_2e_90Q",
+                "taocan": "12英寸祝寿蛋糕1个，约12英寸，圆形",
+                "price": 498,
+                "yprice": 598,
+                "saleNum": 10,
+                "shopprice": "10.99",
+                "shopprice2": "元",
+                "shopprice3": "门市价：14元",
+                "sales": "已售16252"
+            },
+            {
+                "thunmb": "//p0.meituan.net/100.0/deal/2715df9c4743470379db88eb330e4d6b143564.jpg@0_180_1080_1080a%7C267h_267w_2e_90Q",
+                "taocan": "纯乳脂蛋糕1个，约8英寸，圆形",
+                "price": 498,
+                "yprice": 598,
+                "saleNum": 10,
+                "shopprice": "10.99",
+                "shopprice2": "元",
+                "shopprice3": "门市价：14元",
+                "sales": "已售16252"
+            }
+        ]
+    },
+    {
+        "title": "蜜忆私房烘培（高新区升龙店）",
+        "star": 4.5,
+        "span1": "团",
+        "span2": "团",
+        "address": "1.5km高新区",
+        "productList": [
+            {
+                "thunmb": "//p1.meituan.net/100.0/deal/957d90c971319b9abbd03e669a0cb67252408.jpg@117_0_566_566a%7C267h_267w_2e_90Q",
+                "taocan": "单人spa套餐",
+                "price": 498,
+                "yprice": 598,
+                "saleNum": 10,
+                "shopprice": "10.99",
+                "shopprice2": "元",
+                "shopprice3": "门市价：14元",
+                "sales": "已售16252"
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+{
+    "title": [
+        {
+            "list": "火锅",
+            "path": "./listone",
+            "icon": "\ue631",
+            "background": "background:rgb(255, 199, 54);"
+        },
+        {
+            "list": "甜点饮品",
+            "path": "./listtwo",
+            "icon": "\ue608",
+            "background": "background:rgb(94, 180, 240);"
+        },
+        {
+            "list": "自助餐",
+            "path": "./listthree",
+            "icon": "\ue625",
+            "background": "background:rgb(253, 193, 25);"
+        },
+        {
+            "list": "小吃快餐",
+            "path": "./listfour",
+            "icon": "\ue60e",
+            "background": "background:rgb(253, 124, 111);"
+        },
+        {
+            "list": "西餐",
+            "path": "./listfive",
+            "icon": "\ue600",
+            "background": "background:rgb(94, 180, 240);"
+        },
+        {
+            "list": "烧烤烤肉",
+            "path": "./listsix",
+            "icon": "\ue626",
+            "background": "background:rgb(253, 124, 111);"
+        },
+        {
+            "list": "香锅烤鱼",
+            "path": "./listseven",
+            "icon": "\ue668",
+            "background": "background:rgb(253, 193, 25);"
+        },
+        {
+            "list": "海鲜",
+            "path": "./listeight",
+            "icon": "\ue8b7",
+            "background": "background:rgb(94, 180, 240);"
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+[
+    {
+        "title": "VI 即时设计（曼哈顿店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "广告",
+        "num": "18.1km",
+        "place": "曼哈顿广场",
+        "data": [
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/a420a336944ce7b2e2efe46931c59f45196307.jpg",
+                "title": "VI-【时尚】单人烫染二选一",
+                "price": "198",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "350元",
+                "tag": "",
+                "sell": "已售1847"
+            },
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/a420a336944ce7b2e2efe46931c59f45196307.jpg",
+                "title": "VI-【精选】资深设计师洗剪吹",
+                "price": "38",
+                "yuan": "元",
+                "door": "",
+                "doorprice": "",
+                "tag": "减7.6元",
+                "sell": "已售8878"
+            }
+        ]
+    },
+    {
+        "title": "水晶之恋（高新万科店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "",
+        "num": "1.1km",
+        "place": "高新区",
+        "data": [
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/f734cc901090094a53dfd716cfc700bb463454.jpg",
+                "title": "【新店专享】品质烫染2选1",
+                "price": "109",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "345元",
+                "tag": "",
+                "sell": "已售1386"
+            },
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/b727a95592a3bdc14c8a63e0ddb37c4c290757.jpg",
+                "title": "特级设计师精剪造型",
+                "price": "39.9",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "49元",
+                "tag": "",
+                "sell": "已售272995"
+            }
+        ]
+    },
+    {
+        "title": "MAX hairsalon造型（正弘城店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "广告",
+        "num": "14.8km",
+        "place": "金水万达/蓝堡湾",
+        "data": [
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/06705a40bea8e2b8ff8e8f5a9b1d2849737765.jpg",
+                "title": "【店长推荐】高级时尚剪发（不满意我买单）",
+                "price": "199",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "298元",
+                "tag": "",
+                "sell": "已售194"
+            },
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/06705a40bea8e2b8ff8e8f5a9b1d2849737765.jpg",
+                "title": "【强烈推荐】圣威娜染/烫二选一 （不满意我买单）",
+                "price": "680",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "1180元",
+                "tag": "",
+                "sell": "已售28"
+            }
+        ]
+    },
+    {
+        "title": "MEET1801造型（熙地港店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "广告",
+        "num": "18.6km",
+        "place": "熙地港/王府井",
+        "data": [
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/9c3cb574ff6c747c0b4a63d9baa7648d163374.jpg",
+                "title": "【女神范儿】总监设计精剪+造型",
+                "price": "55",
+                "yuan": "元",
+                "door": "",
+                "doorprice": "",
+                "tag": "品牌新用户减13元",
+                "sell": "已售1186"
+            },
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/dd59b68d35e4e50b93168c2d312a7e62158058.jpg",
+                "title": "【倾城时光】单人烫染蜡3选1",
+                "price": "249",
+                "yuan": "元",
+                "door": "",
+                "doorprice": "",
+                "tag": "品牌新用户减50元",
+                "sell": "已售900"
+            }
+        ]
+    },
+    {
+        "title": "丽锦美容美发（万科店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "",
+        "num": "1.1km",
+        "place": "高新区",
+        "data": [
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/1fca2ff42bb4affb2e83ece096f91b5026614.jpg",
+                "title": "高级设计师+精剪+造型套餐",
+                "price": "28",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "38元",
+                "tag": "",
+                "sell": "已售1202"
+            },
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/1fca2ff42bb4affb2e83ece096f91b5026614.jpg",
+                "title": "施华蔻活发护理霜",
+                "price": "128",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "168元",
+                "tag": "",
+                "sell": "已售19"
+            }
+        ]
+    },
+    {
+        "title": "FLY SALON网红·日式造型",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "广告",
+        "num": "15km",
+        "place": "国贸360",
+        "data": [
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/c25d6f6cad102c7b8c6e976c68f35755190410.jpg",
+                "title": "「女士烫染」人气烫发 染发（二选一）",
+                "price": "168",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "368元",
+                "tag": "",
+                "sell": "已售15"
+            },
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/c25d6f6cad102c7b8c6e976c68f35755190410.jpg",
+                "title": "「女士剪发」人气设计师剪发+发型设计提案",
+                "price": "38",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "68元",
+                "tag": "",
+                "sell": "已售133"
+            }
+        ]
+    },
+    {
+        "title": "VI 即时设计（曼哈顿店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "广告",
+        "num": "18.1km",
+        "place": "曼哈顿广场",
+        "data": [
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/a420a336944ce7b2e2efe46931c59f45196307.jpg",
+                "title": "VI-【时尚】单人烫染二选一",
+                "price": "198",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "350元",
+                "tag": "",
+                "sell": "已售1847"
+            },
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/a420a336944ce7b2e2efe46931c59f45196307.jpg",
+                "title": "VI-【精选】资深设计师洗剪吹",
+                "price": "38",
+                "yuan": "元",
+                "door": "",
+                "doorprice": "",
+                "tag": "减7.6元",
+                "sell": "已售8878"
+            }
+        ]
+    },
+    {
+        "title": "水晶之恋（高新万科店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "",
+        "num": "1.1km",
+        "place": "高新区",
+        "data": [
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/f734cc901090094a53dfd716cfc700bb463454.jpg",
+                "title": "【新店专享】品质烫染2选1",
+                "price": "109",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "345元",
+                "tag": "",
+                "sell": "已售1386"
+            },
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/b727a95592a3bdc14c8a63e0ddb37c4c290757.jpg",
+                "title": "特级设计师精剪造型",
+                "price": "39.9",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "49元",
+                "tag": "",
+                "sell": "已售272995"
+            }
+        ]
+    },
+    {
+        "title": "MAX hairsalon造型（正弘城店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "广告",
+        "num": "14.8km",
+        "place": "金水万达/蓝堡湾",
+        "data": [
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/06705a40bea8e2b8ff8e8f5a9b1d2849737765.jpg",
+                "title": "【店长推荐】高级时尚剪发（不满意我买单）",
+                "price": "199",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "298元",
+                "tag": "",
+                "sell": "已售194"
+            },
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/06705a40bea8e2b8ff8e8f5a9b1d2849737765.jpg",
+                "title": "【强烈推荐】圣威娜染/烫二选一 （不满意我买单）",
+                "price": "680",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "1180元",
+                "tag": "",
+                "sell": "已售28"
+            }
+        ]
+    },
+    {
+        "title": "MEET1801造型（熙地港店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "广告",
+        "num": "18.6km",
+        "place": "熙地港/王府井",
+        "data": [
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/9c3cb574ff6c747c0b4a63d9baa7648d163374.jpg",
+                "title": "【女神范儿】总监设计精剪+造型",
+                "price": "55",
+                "yuan": "元",
+                "door": "",
+                "doorprice": "",
+                "tag": "品牌新用户减13元",
+                "sell": "已售1186"
+            },
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/dd59b68d35e4e50b93168c2d312a7e62158058.jpg",
+                "title": "【倾城时光】单人烫染蜡3选1",
+                "price": "249",
+                "yuan": "元",
+                "door": "",
+                "doorprice": "",
+                "tag": "品牌新用户减50元",
+                "sell": "已售900"
+            }
+        ]
+    },
+    {
+        "title": "丽锦美容美发（万科店）",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "",
+        "num": "1.1km",
+        "place": "高新区",
+        "data": [
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/1fca2ff42bb4affb2e83ece096f91b5026614.jpg",
+                "title": "高级设计师+精剪+造型套餐",
+                "price": "28",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "38元",
+                "tag": "",
+                "sell": "已售1202"
+            },
+            {
+                "img": "//p1.meituan.net/200.0/dpdeal/1fca2ff42bb4affb2e83ece096f91b5026614.jpg",
+                "title": "施华蔻活发护理霜",
+                "price": "128",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "168元",
+                "tag": "",
+                "sell": "已售19"
+            }
+        ]
+    },
+    {
+        "title": "FLY SALON网红·日式造型",
+        "span1": "团",
+        "span2": "团",
+        "text": "5.0",
+        "adve": "广告",
+        "num": "15km",
+        "place": "国贸360",
+        "data": [
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/c25d6f6cad102c7b8c6e976c68f35755190410.jpg",
+                "title": "「女士烫染」人气烫发 染发（二选一）",
+                "price": "168",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "368元",
+                "tag": "",
+                "sell": "已售15"
+            },
+            {
+                "img": "//p0.meituan.net/200.0/dpdeal/c25d6f6cad102c7b8c6e976c68f35755190410.jpg",
+                "title": "「女士剪发」人气设计师剪发+发型设计提案",
+                "price": "38",
+                "yuan": "元",
+                "door": "门市价",
+                "doorprice": "68元",
+                "tag": "",
+                "sell": "已售133"
+            }
+        ]
+    }
+]

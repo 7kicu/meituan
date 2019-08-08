@@ -1,0 +1,117 @@
+{
+    "data": [{
+            "title": "个性写真",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101194741gexingxiezhen3xb.png"
+        },
+        {
+            "title": "珠宝首饰",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101194827hunjieshoushi3xb.png"
+        },
+        {
+            "title": "彩妆造型",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101194851caizhuangzaoxing3xb.png"
+        },
+        {
+            "title": "西服定制",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101194950xifudingzhi3xb.png"
+        }, {
+            "title": "跟拍",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195040genpai3xb.png"
+        }, {
+            "title": "司仪",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195128siyi3xb.png"
+        },
+        {
+            "title": "婚车",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195212hunche3xb.png"
+        },
+        {
+            "title": "喜糖喜帖",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195322haiwaihunli3xb.png"
+        },
+        {
+            "title": "海外婚礼",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195322haiwaihunli3xb.png"
+        }, {
+            "title": "婚品商城",
+            "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195322haiwaihunli3xb.png"
+        }
+    ],
+    "more": [{
+        "title": "电子请柬",
+        "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195322haiwaihunli3xb.png"
+    }, {
+        "title": "结婚攻略",
+        "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195322haiwaihunli3xb.png"
+    }, {
+        "title": "黄道吉日",
+        "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101195322haiwaihunli3xb.png"
+    }, {
+        "title": "结婚预算",
+        "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101194851caizhuangzaoxing3xb.png"
+    }, {
+        "title": "结婚登记处",
+        "pic": "https://www.dpfile.com/sc/eleconfig/wedhomepage_mt_jingangwei/20181101194827hunjieshoushi3xb.png"
+    }],
+    "show": [{
+            "title": "50~100元",
+            "p": "酒店红包大理",
+            "pic": "https://op.meituan.net/oppkit_pic/wed_firstpage_rb_meituan/4e2223757173a7f0a1aae2927669fd5.png"
+        }, {
+            "title": "明星大牌婚礼",
+            "p": "高端婚礼定制",
+            "pic": "https://op.meituan.net/oppkit_pic/wed_firstpage_rb_03_meituan/367d920ae37d9fb4d56b8283b2c49de0.png"
+        }, {
+            "title": "爆款限时秒杀",
+            "p": "50元婚照红包",
+            "pic": "https://op.meituan.net/oppkit_pic/wed_firstpage_rb_04_meituan/a21ede013454eb8b8dc9b0b05f5db5.png"
+        }, {
+            "title": "结婚排行榜",
+            "p": "人气TOP大公开",
+            "pic": "https://op.meituan.net/oppkit_pic/wed_firstpage_rb_05_meituan/d1f10d4dc1f377c81bb2c9bea3fa4501.png"
+        }
+
+    ],
+    "tab": [{
+        "name": "丽致龙婚纱摄影工作室（年度优选店）",
+        "address": "健康路/零零茂 工作室",
+        "p": "3699元【520】⑫服⑫造赠婚纱1件",
+        "img": "//p0.meituan.net/122.200/wedding/8edadbbf46e4bb3798fb89e6af78ec3f414641.jpg",
+        "money": "￥5217/人"
+    }, {
+        "name": "韩国艺匠ARTIZ STUDIO（郑州店）",
+        "address": "熙地港/王府井 工作室",
+        "money": "￥10379/人",
+        "p": "6980元2019人气爆款场景限时开放!",
+        "img": "//p0.meituan.net/122.200/wedding/00295e267f53bdf46cab949855924c69387441.jpg"
+
+    }, {
+        "name": "丽致龙婚纱摄影工作室（年度优选店）",
+        "address": "健康路/零零茂 工作室",
+        "money": "￥5217/人",
+        "p": "3699元【520】⑫服⑫造赠婚纱1件",
+        "img": "//p0.meituan.net/122.200/wedding/8edadbbf46e4bb3798fb89e6af78ec3f414641.jpg"
+
+    }, {
+        "name": "韩国艺匠ARTIZ STUDIO（郑州店）",
+        "address": "熙地港/王府井 工作室",
+        "money": "￥10379/人",
+        "p": "6980元2019人气爆款场景限时开放!",
+        "img": "//p0.meituan.net/122.200/wedding/00295e267f53bdf46cab949855924c69387441.jpg"
+
+    }, {
+        "name": "丽致龙婚纱摄影工作室（年度优选店）",
+        "address": "健康路/零零茂 工作室",
+        "money": "￥5217/人",
+        "p": "3699元【520】⑫服⑫造赠婚纱1件",
+        "img": "//p0.meituan.net/122.200/wedding/8edadbbf46e4bb3798fb89e6af78ec3f414641.jpg"
+
+    }, {
+        "money": "￥5217/人",
+        "name": "韩国艺匠ARTIZ STUDIO（郑州店）",
+        "address": "熙地港/王府井 工作室",
+        "p": "6980元2019人气爆款场景限时开放!",
+        "img": "//p0.meituan.net/122.200/wedding/00295e267f53bdf46cab949855924c69387441.jpg"
+
+    }]
+}

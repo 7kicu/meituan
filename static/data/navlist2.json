@@ -1,0 +1,64 @@
+{
+    "title": [
+        {
+            "list": "今日新单",
+            "path": "./list11",
+            "icon": "\ue62e",
+            "background": "background:rgb(0, 211, 190);"
+        },
+        {
+            "list": "生活服务",
+            "icon": "\ue606",
+            "path": "./list12",
+            "background": "background:rgb(168, 221, 153);"
+        },
+        {
+            "list": "甜点饮品",
+            "icon": "\ue608",
+            "path": "./list13",
+            "background": "background:rgb(253, 157, 33);"
+        },
+        {
+            "list": "婚纱摄影",
+            "icon": "\ue601",
+            "path": "./list14",
+            "background": "background:rgb(255, 115, 96);"
+        },
+        {
+            "list": "母婴亲子",
+            "icon": "\ue604",
+            "path": "./list15",
+            "background": "background:rgb(255, 128, 194);"
+        },
+        {
+            "list": "学习培训",
+            "path": "./list16",
+            "icon": "\ue694",
+            "background": "background:rgb(132, 210, 61);"
+        },
+        {
+            "list": "结婚",
+            "icon": "\ue6b2",
+            "path": "./list17",
+            "background": "background:rgb(255, 128, 194);"
+        },
+        {
+            "list": "家装",
+            "icon": "\ue851",
+            "path": "./list18",
+            "background": "background:rgb(106, 207, 48);"
+        },
+        {
+            "list": "代金券",
+            "icon": "\ue61b",
+            "path": "./list19",
+            "background": "background:rgb(253, 157, 33);"
+        },
+        {
+            "list": "全部分类",
+            "icon": "\ue756",
+            "path": "./list20",
+            "background": "background:rgb(0, 211, 190);"
+        }
+    ]
+}

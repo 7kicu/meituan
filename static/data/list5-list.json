@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "img": "https://p1.meituan.net/jungle/8b5e1702d4145ccf058ba5fb31008c5310912.png",
+            "title": "美食"
+        },
+        {
+            "img": "https://p0.meituan.net/jungle/45ff2f098a20a77122bff8385192f0ec10547.png",
+            "title": "美团超市"
+        },
+        {
+            "img": "https://p1.meituan.net/jungle/12a9834827909fa55f54bce96e67470711250.png",
+            "title": "生鲜果蔬"
+        },
+        {
+            "img": "https://p1.meituan.net/jungle/da9181f93dd2e11c5d74cf685470408f10016.png",
+            "title": "美团专送"
+        },
+        {
+            "img": "https://p1.meituan.net/jungle/83bfbcf07221cb1ccbcd9114e81ec7ac9209.png",
+            "title": "快食同餐"
+        },
+        {
+            "img": "https://p1.meituan.net/jungle/e54f1fe77b0588d2dfe82a12e424108a9450.png",
+            "title": "甜点饮品"
+        },
+        {
+            "img": "https://p0.meituan.net/jungle/2eee7747fd143249b100b9fa5ee5e31d9873.png",
+            "title": "家常菜"
+        },
+        {
+            "img": "https://p0.meituan.net/jungle/2ec76f8f4f21a4ec163adc7fccfa1a399428.png",
+            "title": "小吃馆"
+        },
+        {
+            "img": "https://p1.meituan.net/jungle/dfd03fd91f640682c16179ba85837f739679.png",
+            "title": "鲜花蛋糕"
+        },
+        {
+            "img": "https://p1.meituan.net/jungle/99fb0a3687a7ad570d015ec081ff396a9989.png",
+            "title": "品牌连锁"
+        }
+    ]
+}

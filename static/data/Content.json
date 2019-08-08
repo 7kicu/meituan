@@ -1,0 +1,335 @@
+{
+    "data": [
+        {
+            "star": "\ue70b",
+            "hstar": "\ue698",
+            "startext": "4.1",
+            "number": "1500人评价",
+            "data": [
+                {
+                    "text": "味道赞393"
+                },
+                {
+                    "text": "性价比高209"
+                },
+                {
+                    "text": "分量足195"
+                },
+                {
+                    "text": "菜品不错155"
+                },
+                {
+                    "text": "回头客127"
+                },
+                {
+                    "text": "上菜快87"
+                },
+                {
+                    "text": "肉类好55"
+                },
+                {
+                    "text": "朋友聚餐6"
+                },
+                {
+                    "text": "现做现卖3"
+                },
+                {
+                    "text": "主食赞3"
+                }
+            ]
+        },
+        {
+            "title": "商家信息",
+            "more": "查看全部两家适用分店",
+            "right": "\ue731",
+            "data": [
+                {
+                    "data": "小红鸡炒鸡餐厅（雪松路店）",
+                    "addres": "高新区雪松路与莲花街交叉口向北300米路东（工业大学东门）",
+                    "tel": "\ue621",
+                    "pos": "\ue647",
+                    "dist": "离我最近"
+                }
+            ]
+        },
+        {
+            "title": "套餐",
+            "whole": "全部菜品",
+            "mark": "备注",
+            "dao": "到店请提前出示美团团购券验证",
+            "more": "查看全部两家适用分店",
+            "right": "\ue731",
+            "data": [
+                {
+                    "name": "小红鸡炒鸡",
+                    "middle": "1 份",
+                    "price": "48元"
+                },
+                {
+                    "name": "烩面",
+                    "middle": "2 份",
+                    "price": "4元"
+                }
+            ]
+        },
+        {
+            "title": "购买须知",
+            "data": [
+                {
+                    "notice": "有效期",
+                    "rea": "2017.11.20 至 2019.8.24 23:59（周末、法定节假日通用）"
+                },
+                {
+                    "notice": "使用时间",
+                    "rea": "11:00-14:00,17:00-21:30"
+                },
+                {
+                    "notice": "使用规则",
+                    "rea": [
+                        {
+                            "ul": "团购用户不可同时享受商家其他优惠"
+                        },
+                        {
+                            "ul": "酒水饮料等问题，请致电商家咨询，以商家反馈为准"
+                        },
+                        {
+                            "ul": "如部分菜品因时令或其他不可抗因素导致无法提供，商家会用等价菜品替换，具体事宜请与商家协商"
+                        },
+                        {
+                            "ul": "店内无包间"
+                        },
+                        {
+                            "ul": "无需预约，消费高峰期可能需要等位"
+                        },
+                        {
+                            "ul": "每张美团券建议2人使用"
+                        },
+                        {
+                            "ul": "商家提供免费WiFi"
+                        },
+                        {
+                            "ul": "仅限堂食，不提供餐前外带，餐毕未吃完可打包，打包费详情请咨询商家"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "评价",
+            "star": "\ue70b",
+            "hstar": "\ue698",
+            "startext": "4.1",
+            "more": "查看全部1502条评价",
+            "right": "\ue731",
+            "data": [
+                {
+                    "img": "https://img.meituan.net/avatar/2b04f5cef7880f81d60afabedd97d66122806.jpg@148w_148h_1e_1c",
+                    "usname": "Jvfjmngimfrk",
+                    "rimg": "//s1.meituan.net/bs/file?f=meis/meishi.mobile:img/serious-evaluation.png@3bcf852",
+                    "star": "\ue70b",
+                    "hstar": "\ue698",
+                    "time": "2019-07-23",
+                    "cent": "从这个店刚开业就来这里吃，因为就在我们学校东门，离的也很近，价格也便宜，当然刚开业的时候更便宜，后来还涨价了，也不多，可能是附近房租太贵了吧，味道挺好，一定要点",
+                    "img1": "//p0.meituan.net/shaitu/ac38452e92d4808cce1e409562204348608585.jpg@220w_220h_1e_1c",
+                    "img2": "//p0.meituan.net/shaitu/71f849243a07bc3005dd98cd743796d3446564.jpg@220w_220h_1e_1c",
+                    "didian": "小红鸡炒鸡餐厅（雪松路店）"
+                },
+                {
+                    "img": "https://img.meituan.net/avatar/0de5b191a3ae3b4d79632e07c4f0a80b22533.jpg@148w_148h_1e_1c",
+                    "usname": "祐啭滺滺",
+                    "rimg": "",
+                    "star": "\ue70b",
+                    "hstar": "\ue698",
+                    "time": "2019-07-20",
+                    "cent": "家门口的美食，推荐 #素香炸饼# #小红鸡炒鸡# #烩面#",
+                    "img1": "//p0.meituan.net/shaitu/e0b47b88996d8bd445fca1a7d92b7be2430309.jpg@220w_220h_1e_1c",
+                    "img2": "",
+                    "didian": "小红鸡炒鸡餐厅（经八路店）"
+                },
+                {
+                    "img": "//p1.meituan.net/mmc/9eb02e99626203347ba0237ac7699f924241.png@148w_148h_1e_1c",
+                    "usname": "宗柳匡何",
+                    "rimg": "",
+                    "star": "\ue70b",
+                    "hstar": "\ue698",
+                    "time": "2019-06-16",
+                    "cent": "两人份分量很足，而且没有鸡头什么的，骨头都很少，肉也很多，土豆也很好吃。",
+                    "img1": "//p1.meituan.net/shaitu/e78639d86f54d42a3d6975f7a5ef9131460545.jpg@220w_220h_1e_1c",
+                    "img2": "",
+                    "didian": "小红鸡炒鸡餐厅（雪松路店）"
+                }
+            ]
+        },
+        {
+            "title": "小红鸡炒鸡餐厅相关推荐",
+            "data": [
+                {
+                    "tuan": "\ue6a7",
+                    "block": "[4店通用]2人餐炒鸡，提供免费WiFi",
+                    "strong": "62.8",
+                    "y": "元",
+                    "mprice": "门市价76元",
+                    "shou": "已售16580"
+                },
+                {
+                    "tuan": "\ue6a7",
+                    "block": "[3店通用]4人餐炒鸡，提供免费WiFi",
+                    "strong": "118.8",
+                    "y": "元",
+                    "mprice": "门市价144元",
+                    "shou": "已售5696"
+                },
+                {
+                    "tuan": "\ue6a7",
+                    "block": "[丰业广场/千盛广场]2-3人餐，提供免费WiFi",
+                    "strong": "58",
+                    "y": "元",
+                    "mprice": "门市价84元",
+                    "shou": "已售165"
+                },
+                {
+                    "tuan": "\ue6a7",
+                    "block": "[高新区]2-3人餐",
+                    "strong": "53",
+                    "y": "元",
+                    "mprice": "门市价61元",
+                    "shou": "已售1911"
+                },
+                {
+                    "tuan": "\ue6a7",
+                    "block": "[高新区]大盘鸡特惠套餐，建议2-3人使用",
+                    "strong": "49",
+                    "y": "元",
+                    "mprice": "门市价54元",
+                    "shou": "已售877"
+                },
+                {
+                    "tuan": "\ue6a7",
+                    "block": "[高新区]超值2-3人餐，提供免费WiFi",
+                    "strong": "78",
+                    "y": "元",
+                    "mprice": "门市价148元",
+                    "shou": "已售1008"
+                },
+                {
+                    "tuan": "\ue6a7",
+                    "block": "[高新区]藤椒豆花鸡3选1",
+                    "strong": "27.9",
+                    "y": "元",
+                    "mprice": "门市价39元",
+                    "shou": "已售512"
+                },
+                {
+                    "tuan": "\ue6a7",
+                    "block": "[建文新世界]精品双人餐",
+                    "strong": "58",
+                    "y": "元",
+                    "mprice": "门市价83元",
+                    "shou": "已售6278"
+                }
+            ]
+        },
+        {
+            "title": "看了本团购的用户还看了",
+            "guang": "广告",
+            "data": [
+                {
+                    "leftimg": "https://p0.meituan.net/deal/cab020a3577d0edacbe776f04837804d177466.jpg@368w_328h_1e_1c",
+                    "deal": "豫鹰鸿门老城区炭火蛙锅",
+                    "distance": ">5km",
+                    "ver": "[北大学城] 仅售29元！价值100元的超值代金券1张，除酒水饮料外全场通用，提供免费WiFi。",
+                    "jia": "￥29",
+                    "right": "已售119"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/4da031335a74cdef455a7b1b8f548dff69082.jpg@368w_328h_1e_1c",
+                    "deal": "拾三小龙",
+                    "distance": ">5km",
+                    "ver": "[曼哈顿广场] 仅售58元！最高价值112元的拾三小龙双人餐，提供免费WiFi。",
+                    "jia": "￥58",
+                    "right": "已售9"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/334df4c4ee32882998e5c7ffa9893a8b731375.jpg@368w_328h_1e_1c",
+                    "deal": "启达西饼生日蛋糕",
+                    "distance": "4.3km",
+                    "ver": "[高新区] 仅售199元！价值439元的蛋糕2选1,约12英寸，方型。",
+                    "jia": "￥199",
+                    "right": "已售1967"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/ba3028a2a51a41d1570f62f6bfca8551326299.jpg@368w_328h_1e_1c",
+                    "deal": "百特逗鱼秘制烤鱼",
+                    "distance": ">5km",
+                    "ver": "[火车站/二七广场] 仅售169元！价值236元的清江鱼4-5人餐，提供免费WiFi。",
+                    "jia": "￥169",
+                    "right": "已售557"
+                },
+                {
+                    "leftimg": "https://p1.meituan.net/deal/5d76c18804895475f415c3bc2cde0ab466801.jpg@368w_328h_1e_1c",
+                    "deal": "虾友记",
+                    "distance": ">5km",
+                    "ver": "[柳林刘庄] 仅售98元！价值120元的2-3人虾尾套餐，提供免费WiFi。",
+                    "jia": "￥98",
+                    "right": "已售4"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/cab020a3577d0edacbe776f04837804d177466.jpg@368w_328h_1e_1c",
+                    "deal": "豫鹰鸿门老城区炭火蛙锅",
+                    "distance": ">5km",
+                    "ver": "[北大学城] 仅售29元！价值100元的超值代金券1张，除酒水饮料外全场通用，提供免费WiFi。",
+                    "jia": "￥29",
+                    "right": "已售119"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/4da031335a74cdef455a7b1b8f548dff69082.jpg@368w_328h_1e_1c",
+                    "deal": "拾三小龙",
+                    "distance": ">5km",
+                    "ver": "[曼哈顿广场] 仅售58元！最高价值112元的拾三小龙双人餐，提供免费WiFi。",
+                    "jia": "￥58",
+                    "right": "已售9"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/334df4c4ee32882998e5c7ffa9893a8b731375.jpg@368w_328h_1e_1c",
+                    "deal": "启达西饼生日蛋糕",
+                    "distance": "4.3km",
+                    "ver": "[高新区] 仅售199元！价值439元的蛋糕2选1,约12英寸，方型。",
+                    "jia": "￥199",
+                    "right": "已售1967"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/ba3028a2a51a41d1570f62f6bfca8551326299.jpg@368w_328h_1e_1c",
+                    "deal": "百特逗鱼秘制烤鱼",
+                    "distance": ">5km",
+                    "ver": "[火车站/二七广场] 仅售169元！价值236元的清江鱼4-5人餐，提供免费WiFi。",
+                    "jia": "￥169",
+                    "right": "已售557"
+                },
+                {
+                    "leftimg": "https://p1.meituan.net/deal/5d76c18804895475f415c3bc2cde0ab466801.jpg@368w_328h_1e_1c",
+                    "deal": "虾友记",
+                    "distance": ">5km",
+                    "ver": "[柳林刘庄] 仅售98元！价值120元的2-3人虾尾套餐，提供免费WiFi。",
+                    "jia": "￥98",
+                    "right": "已售4"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/cab020a3577d0edacbe776f04837804d177466.jpg@368w_328h_1e_1c",
+                    "deal": "豫鹰鸿门老城区炭火蛙锅",
+                    "distance": ">5km",
+                    "ver": "[北大学城] 仅售29元！价值100元的超值代金券1张，除酒水饮料外全场通用，提供免费WiFi。",
+                    "jia": "￥29",
+                    "right": "已售119"
+                },
+                {
+                    "leftimg": "https://p0.meituan.net/deal/4da031335a74cdef455a7b1b8f548dff69082.jpg@368w_328h_1e_1c",
+                    "deal": "拾三小龙",
+                    "distance": ">5km",
+                    "ver": "[曼哈顿广场] 仅售58元！最高价值112元的拾三小龙双人餐，提供免费WiFi。",
+                    "jia": "￥58",
+                    "right": "已售9"
+                }
+            ]
+        }
+    ]
+}

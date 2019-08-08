@@ -1,0 +1,140 @@
+{
+    "banner": [
+        "https://op.meituan.net/oppkit_pic/home_channel_rb/1513ff1f89bf3be9eea9be8e2bbb4146.png"
+    ],
+    "calts": [
+        {
+            "tit": "经典二居",
+            "content": "4000套图册",
+            "pic": "https://p1.meituan.net/wedding/3c73c9f364c75ea2ec1b52bcc1783d23211512.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "舒适三居",
+            "content": "3500套图册",
+            "pic": "https://p1.meituan.net/wedding/2aa4f48058ba61bf5413a874d1ddd3b3963810.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "现代简约",
+            "content": "800套图册",
+            "pic": "https://p1.meituan.net/wedding/e40134e59a200da1c3de56c2102909d2153369.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "奢华美式",
+            "content": "900套图册",
+            "pic": "https://p1.meituan.net/wedding/b1926b40b137c0d4b5909f00b3a698a8141997.jpg%40335w_221h_1e"
+        }
+    ],
+    "space": [
+        {
+            "tit": "客厅",
+            "pic": "https://p0.meituan.net/wedding/c7d500de2843a15e0eb074c4b9528d13232160.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "卧室",
+            "pic": "https://p0.meituan.net/wedding/65f80b6b30ecb594e3833347fee733f8557746.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "厨房",
+            "pic": "https://p0.meituan.net/wedding/e042954aa2fab0455c137d7f3314181d434615.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "卫生间",
+            "pic": "https://p0.meituan.net/wedding/2692c95b8145a4738b1aa62e1ed88748471375.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "餐厅",
+            "pic": "https://p1.meituan.net/wedding/7e86d3e2421e4d82c36404b8a4308555478574.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "阳台",
+            "pic": "https://p1.meituan.net/wedding/5c8ac122737e9a224ed8bd8750be1b1d939097.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "书房",
+            "pic": "https://p1.meituan.net/wedding/abb4ca97c978e14655017999f7507cf6381190.jpg%40335w_221h_1e"
+        },
+        {
+            "tit": "儿童房",
+            "pic": "https://p0.meituan.net/wedding/d43c22d8cebe7ebd55d3f49726a8be27496175.jpg%40335w_221h_1e"
+        }
+    ],
+    "design": [
+        {
+            "tit": "河南超凡装饰",
+            "grade": "5",
+            "price": "￥132833/人",
+            "gps": "康桥商务广场",
+            "img": [
+                "https://p0.meituan.net/wedding/b5378c01bbda45b8c9f3ee7144a88824541333.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/11e83a5b1d94f052108ec30ba33b4dd9504622.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/cd473d2d963b042726eeab9adc8f1959525166.jpg%40200w_150h_1e_1c.webp"
+            ]
+        },
+        {
+            "tit": "河南超凡装饰",
+            "grade": "5",
+            "price": "￥132833/人",
+            "gps": "康桥商务广场",
+            "img": [
+                "https://p0.meituan.net/wedding/b5378c01bbda45b8c9f3ee7144a88824541333.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/11e83a5b1d94f052108ec30ba33b4dd9504622.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/cd473d2d963b042726eeab9adc8f1959525166.jpg%40200w_150h_1e_1c.webp"
+            ]
+        },
+        {
+            "tit": "河南超凡装饰",
+            "grade": "5",
+            "price": "￥132833/人",
+            "gps": "康桥商务广场",
+            "img": [
+                "https://p0.meituan.net/wedding/b5378c01bbda45b8c9f3ee7144a88824541333.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/11e83a5b1d94f052108ec30ba33b4dd9504622.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/cd473d2d963b042726eeab9adc8f1959525166.jpg%40200w_150h_1e_1c.webp"
+            ]
+        },
+        {
+            "tit": "河南超凡装饰",
+            "grade": "5",
+            "price": "￥132833/人",
+            "gps": "康桥商务广场",
+            "img": [
+                "https://p0.meituan.net/wedding/b5378c01bbda45b8c9f3ee7144a88824541333.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/11e83a5b1d94f052108ec30ba33b4dd9504622.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/cd473d2d963b042726eeab9adc8f1959525166.jpg%40200w_150h_1e_1c.webp"
+            ]
+        },
+        {
+            "tit": "河南超凡装饰",
+            "grade": "5",
+            "price": "￥132833/人",
+            "gps": "康桥商务广场",
+            "img": [
+                "https://p0.meituan.net/wedding/b5378c01bbda45b8c9f3ee7144a88824541333.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/11e83a5b1d94f052108ec30ba33b4dd9504622.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/cd473d2d963b042726eeab9adc8f1959525166.jpg%40200w_150h_1e_1c.webp"
+            ]
+        },
+        {
+            "tit": "河南超凡装饰",
+            "grade": "5",
+            "price": "￥132833/人",
+            "gps": "康桥商务广场",
+            "img": [
+                "https://p0.meituan.net/wedding/b5378c01bbda45b8c9f3ee7144a88824541333.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/11e83a5b1d94f052108ec30ba33b4dd9504622.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/cd473d2d963b042726eeab9adc8f1959525166.jpg%40200w_150h_1e_1c.webp"
+            ]
+        },
+        {
+            "tit": "河南超凡装饰",
+            "grade": "5",
+            "price": "￥132833/人",
+            "gps": "康桥商务广场",
+            "img": [
+                "https://p0.meituan.net/wedding/b5378c01bbda45b8c9f3ee7144a88824541333.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/11e83a5b1d94f052108ec30ba33b4dd9504622.jpg%40200w_150h_1e_1c.webp",
+                "https://p0.meituan.net/wedding/cd473d2d963b042726eeab9adc8f1959525166.jpg%40200w_150h_1e_1c.webp"
+            ]
+        }
+    ]
+}
